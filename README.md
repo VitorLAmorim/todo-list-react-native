@@ -22,14 +22,12 @@ Node.js instalado (versão 16 ou superior).
 
 Expo CLI instalado globalmente. Caso não tenha, instale com o comando:
 
-bash
 ```
 npm install -g expo-cli
 ```
 ### Passo 1: Clonar o repositório
 Clone o repositório para o seu ambiente local:
 
-bash
 ```
 git clone https://github.com/VitorLAmorim/todo-list-react-native.git
 cd todo-list-react-native
@@ -37,7 +35,6 @@ cd todo-list-react-native
 ### Passo 2: Instalar as dependências
 Instale as dependências do projeto usando o npm ou yarn:
 
-bash
 ```
 npm install
 # ou
@@ -48,7 +45,6 @@ Após instalar as dependências, execute o projeto com um dos seguintes comandos
 
  - Para iniciar o servidor de desenvolvimento:
 
-bash
 ```
 npm start
 # ou
@@ -56,7 +52,6 @@ yarn start
 ```
  - Para rodar no Android:
 
-bash
 ```
 npm run android
 # ou
@@ -64,7 +59,6 @@ yarn android
 ```
 Para rodar no iOS:
 
-bash
 ```
 npm run ios
 # ou
@@ -72,7 +66,6 @@ yarn ios
 ```
 Para rodar no navegador (web):
 
-bash
 ```
 npm run web
 # ou
