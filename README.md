@@ -25,6 +25,12 @@ Expo CLI instalado globalmente. Caso não tenha, instale com o comando:
 ```
 npm install -g expo-cli
 ```
+
+Pode ser necessário instalar o react
+
+```
+npx expo install react-dom react-native-web @expo/metro-runtime
+```
 ### Passo 1: Clonar o repositório
 Clone o repositório para o seu ambiente local:
 
